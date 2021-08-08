@@ -12,4 +12,4 @@ interesting way to increase difficult as the player continues to encounter more 
 that as the neural network trained, there would be less haphazard collisions and improved pathing towards the space ship. The collision 
 counter was used to compare results and track differences between iterations. 
 
-In order to restart the simulate, please use the "X" to close the program then relaunch the .exe file. 
+In order to restart the simulation, please use the "X" to close the program then relaunch the .exe file. 
